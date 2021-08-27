@@ -21,3 +21,5 @@ stage {'creation of the folder'}
     sh "cd/home/ubuntu; sudo mkdir trustfolder "
   }
 }
+}
+}
